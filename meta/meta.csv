@@ -1,0 +1,8 @@
+number_input_imgs,duration,tile_size,mode
+1735,0:00:21.311190,large,multiproccessing
+1735,0:00:24.558084,large,multithreading
+1735,0:00:49.783851,large,simple
+1735,0:00:21.757522,medium,multiproccessing
+1735,0:00:22.095884,medium,multithreading
+1735,0:00:58.490671,small,multiproccessing
+1735,0:01:04.340698,small,multithreading
